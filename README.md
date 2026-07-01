@@ -62,19 +62,6 @@ Console Application para gerenciamento e limpeza automática de tarefas vencidas
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunovcpdev&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brunovcpdev&hide_border=true" alt="Streak stats" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunovcpdev&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 <div align="center">
 
 📫 **Vamos conversar?** brunovcp15@gmail.com · [LinkedIn](https://www.linkedin.com/in/brunovcpdev)
